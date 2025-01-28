@@ -1,0 +1,148 @@
+R-Values 
+
+Rexp : 2.41    Rwp : 5.25     Rp  : 3.48   GOF : 2.18
+Rexp`: 4.43    Rwp`: 9.67     Rp` : 7.74   DW  : 0.59
+
+Quantitative Analysis - Rietveld 
+   Phase 1  : Cr2O3                          2.98(56) %
+   Phase 2  : W                              6.27(18) %
+   Phase 3  : WC                             23.93(44) %
+   Phase 4  : FCC2                           15.1(11) %
+   Phase 5  : FCC1                           39.85(89) %
+   Phase 6  : W2C                            11.91(28) %
+
+Background 
+   Chebychev polynomial, Coefficient  0      1038.9(57)
+                                      1      542.3(38)
+                                      2      -165.0(83)
+                                      3      17.7(34)
+                                      4      74.2(53)
+                                      5      -8.2(37)
+                                      6      -32.6(45)
+
+Instrument 
+   Primary radius (mm)                       280
+   Secondary radius (mm)                     280
+   Linear PSD 2Th angular range ( )          2.943
+      FDS angle ( )                          4.093
+      Beam spill, sample length (mm)         10
+         Intensity corrected
+   Full Axial Convolution
+      Filament length (mm)                   12
+      Sample length (mm)                     15
+      Receiving Slit length (mm)             12
+
+Corrections 
+   Specimen displacement                     -0.2808(46)
+   LP Factor                                 90
+
+Miscellaneous 
+   Finish X                                  95
+
+Structure 1 
+   Phase name                                Cr2O3
+   R-Bragg                                   4.017
+   Spacegroup                                R-3c:H
+   Scale                                     0.000254(49)
+   Cell Mass                                 911.946
+   Cell Volume ( ^3)                         290.73(37)
+   Wt% - Rietveld                            2.98(56)
+   Crystal Linear Absorption Coeff. (1/cm)   904.9(11)
+   Crystal Density (g/cm^3)                  5.2087(66)
+   Lattice parameters
+      a ( )                                  4.9746(26)
+      c ( )                                  13.5657(97)
+
+Site  Np    x           y           z         Atom Occ       Beq 
+Cr    12  0.00000     0.00000     0.34757     Cr   1         0.5
+O     18  0.30583     0.00000     0.25000     O    1         0.5
+
+
+Structure 2 
+   Phase name                                W
+   R-Bragg                                   0.157
+   Spacegroup                                Im-3m
+   Scale                                     0.01219(28)
+   Cell Mass                                 367.702
+   Cell Volume ( ^3)                         31.613(11)
+   Wt% - Rietveld                            6.27(18)
+   Crystal Linear Absorption Coeff. (1/cm)   3259.1(11)
+   Crystal Density (g/cm^3)                  19.3144(64)
+   Lattice parameters
+      a ( )                                  3.16195(35)
+
+Site  Np    x           y           z         Atom Occ       Beq 
+W     2   0.00000     0.00000     0.00000     W    1         1
+
+
+Structure 3 
+   Phase name                                WC
+   R-Bragg                                   4.387
+   Spacegroup                                P-6m2
+   Scale                                     0.13302(60)
+   Cell Mass                                 195.862
+   Cell Volume ( ^3)                         20.7731(19)
+   Wt% - Rietveld                            23.93(44)
+   Crystal Linear Absorption Coeff. (1/cm)   2484.24(23)
+   Crystal Density (g/cm^3)                  15.6566(14)
+   Lattice parameters
+      a ( )                                  2.90703(11)
+      c ( )                                  2.83838(13)
+
+Site  Np    x           y           z         Atom Occ       Beq 
+W     1   0.00000     0.00000     0.00000     W    1         1.11
+C     1   0.66667     0.33333     0.50000     C    1         1.11
+
+
+Structure 4 
+   Phase name                                FCC2
+   R-Bragg                                   0.075
+   Spacegroup                                Fm-3m
+   Scale                                     0.0273(22)
+   Cell Mass                                 269.458
+   Cell Volume ( ^3)                         46.337(25)
+   Wt% - Rietveld                            15.1(11)
+   Crystal Linear Absorption Coeff. (1/cm)   1021.76(56)
+   Crystal Density (g/cm^3)                  9.6564(53)
+   Lattice parameters
+      a ( )                                  3.59176(65)
+
+Site  Np    x           y           z         Atom Occ       Beq 
+Ni1   4   0.00000     0.00000     0.00000     Ni   0.5       0.5
+Cr1   4   0.00000     0.00000     0.00000     Cr   0.5       0.5
+
+
+Structure 5 
+   Phase name                                FCC1
+   R-Bragg                                   0.137
+   Spacegroup                                Fm-3m
+   Scale                                     0.0893(26)
+   Cell Mass                                 207.986
+   Cell Volume ( ^3)                         48.517(22)
+   Wt% - Rietveld                            39.85(89)
+   Crystal Linear Absorption Coeff. (1/cm)   1769.69(82)
+   Crystal Density (g/cm^3)                  7.1184(33)
+   Lattice parameters
+      a ( )                                  3.64725(56)
+
+Site  Np    x           y           z         Atom Occ       Beq 
+Fe    4   0.00000     0.00000     0.00000     Fe   1         1
+
+
+Structure 6 
+   Phase name                                W2C
+   R-Bragg                                   0.659
+   Spacegroup                                P-3m1
+   Scale                                     0.01956(33)
+   Cell Mass                                 379.713
+   Cell Volume ( ^3)                         36.2591(74)
+   Wt% - Rietveld                            11.91(28)
+   Crystal Linear Absorption Coeff. (1/cm)   2844.00(58)
+   Crystal Density (g/cm^3)                  17.3895(36)
+   Lattice parameters
+      a ( )                                  2.98161(24)
+      c ( )                                  4.70960(61)
+
+Site  Np    x           y           z         Atom Occ       Beq 
+W0    2   0.33333     0.66667     0.25000     W    1         0.5
+C1    1   0.00000     0.00000     0.00000     C    0.5       0.5
